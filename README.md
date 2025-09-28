@@ -1,6 +1,6 @@
 # Example sbt project that compiles using Scala 3
 
-[![Continuous Integration](https://github.com/scala/scala3-example-project/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/scala/scala3-example-project/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/omargallob/scala3-example-project/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/omargallob/scala3-example-project/actions/workflows/ci.yml)
 
 ## Usage
 
@@ -26,8 +26,6 @@ You will need to make the following adjustments to your build:
 
 ```
 sbt.version=1.11.6
-```
-
 You must use sbt 1.5.5 or newer; older versions of sbt are not supported.
 
 ### build.sbt
